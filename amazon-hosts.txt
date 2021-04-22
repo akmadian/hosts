@@ -21,3 +21,7 @@
 0.0.0.0 www.dpreview.com
 0.0.0.0 www.eastdane.com
 0.0.0.0 www.bookdepository.com
+0.0.0.0 www.abebooks.com
+0.0.0.0 shop.ring.com
+0.0.0.0 ring.com
+0.0.0.0 blinkforhome.com
